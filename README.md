@@ -1,10 +1,5 @@
 # Github-Api-Single-User
 
-
-![Screenshot_2019-12-07_18-26-13](https://user-images.githubusercontent.com/26750131/70376537-1b3ec300-191f-11ea-9dc7-a81081d6ddda.png)
-
-
-
 - Retrofit
 
 - Koin
@@ -13,7 +8,7 @@
 
  - ViewModel 
 
-- Moshi 
+- Moshi git push -u origin master
 
 - Coroutines 
 
@@ -33,7 +28,3 @@ Hoping to Fork and expand :heart:
 UPDATE 
 ----
 I got the list of repositories !
-
-NOTE : Design it please :)
-
-thank you :smiley::kissing_closed_eyes:
